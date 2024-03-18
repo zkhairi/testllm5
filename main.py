@@ -69,7 +69,7 @@ with col1:
         """)
 
 with col2:
-    st.write("Contact with [AI Accelera](https://aiaccelera.com) to build your AI Projects")
+    st.write("Contact with AI Think4Lab (https://think4lab.com.my) to build your AI Projects")
 
 
 #Input OpenAI API Key
